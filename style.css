@@ -1,0 +1,39 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+.col{
+    font-size: 30px;
+    text-shadow: 2px 2px rgb(178, 238, 178);
+    font-weight: 300;
+}
+.col4 , .col-8{
+    background-color: greenyellow;
+}
+
+.TimeLine{
+    margin : 30px;
+}
+
+.dob{
+    margin : 30px;
+}
+.primary{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.list-group{
+    margin-left: 30px;
+}
+.school, .college{
+    margin-bottom: 30px;
+}
+p{
+    font-size: 20px;
+}
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
